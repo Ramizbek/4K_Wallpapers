@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/home"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/menu_popular"
+        android:icon="@drawable/popular"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/menu_random"
+        android:icon="@drawable/random"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/menu_like"
+        android:icon="@drawable/like"
+        tools:ignore="MenuTitle" />
+
+</menu>
